@@ -10,9 +10,9 @@
 
 <div align="center">
     <p align="center">
-        <img alt="AIoTLab Logo" width="170" src="docs/aiotlab_logo.png" />
-        <img alt="DaiNam University Logo" width="200" src="docs/fitdnu_logo.png" />
-        <img alt="CNTT Logo" width="180" src="docs/dnu_logo.png" />
+        <img alt="AIoTLab Logo" width="170" src="aiotlab_logo.png" />
+        <img alt="DaiNam University Logo" width="200" src="fitdnu_logo.png" />
+        <img alt="CNTT Logo" width="180" src="dnu_logo.png" />
     </p>
 
 [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
