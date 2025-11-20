@@ -38,8 +38,8 @@ Trong bối cảnh **chuyển đổi số**, cửa hàng thời trang không ch�
 Dự án này xây dựng một **hệ thống quản lý thông minh** cho cửa hàng thời trang với các thành phần chính:
 
 - **CSDL E-commerce**: `E-commerce Website Project Script.sql`
-- **Website bán hàng (Client)**: `ClientSide-Kahreedo.pk.sln`
-- **Hệ thống quản lý kho (IMS)**: `IMS-Project.sln`
+- **Website bán hàng (Client)**: `Cuahangthoitrang.pk.sln`
+- **Hệ thống quản lý kho (IMS)**: `Admin.sln`
 
 ---
 
@@ -144,34 +144,7 @@ Dự án này xây dựng một **hệ thống quản lý thông minh** cho cử
 
 ### 2. Tạo cơ sở dữ liệu
 
-1. Mở file:
-
-   ```text
-   E-commerce Website Project Script.sql
-Thực thi script trong SQL Server Management Studio (SSMS):
-
-Tạo database (ví dụ: Kahreedo)
-
-Tạo bảng, khóa ngoại
-
-Insert dữ liệu mẫu (sản phẩm, khách, đơn hàng,…)
-
-3. Chạy website bán hàng
-
-Mở solution:
-
-ClientSide-Kahreedo.pk.sln
-
-
-Cập nhật chuỗi kết nối (connection string) trong file cấu hình (ví dụ: Web.config) trỏ tới database vừa tạo.
-
-Build & Run trực tiếp từ Visual Studio (IIS Express).
-
-4. Chạy hệ thống IMS (quản lý kho)
-
-Mở solution:
-
-IMS-Project.sln
+Admin.sln
 
 
 Cập nhật connection string (nếu cần) để trỏ về cùng database (hoặc DB kho riêng nếu bạn tách).
@@ -202,13 +175,13 @@ Tăng cường bảo mật & logging
 ├── database/
 │   └── E-commerce Website Project Script.sql
 ├── src/
-│   ├── ClientSide-Kahreedo.pk.sln
-│   └── IMS-Project.sln
+│   ├── Cuahangthoitrang.sln
+│   └── Admin.sln
 └── docs/
     └── (tài liệu thêm nếu có)
 
 ## 👤 Tác giả / Thông tin
 
-Mô tả: Đồ án/chuyên đề về chuyển đổi số cửa hàng thời trang với hệ thống quản lý thông minh.
+Mô tả: Đồ án/chuyên đề về chuyển đổi số hàng thời trang với hệ thống quản lý thông minh.
 
-Người phát triển:Hoàng Thé Khải
+Người phát triển: Nguyễn Thị KIều Hoa
