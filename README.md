@@ -5,7 +5,7 @@
 </h2>
 
 <h2 align="center">
-HỆ THỐNG QUẢN LÝ CỬA HÀNG THỜI TRANG THÔNG MINH TRONG THỜI KỲ\n
+HỆ THỐNG QUẢN LÝ CỬA HÀNG THỜI TRANG THÔNG MINH TRONG THỜI KỲ
     CHUYỂN ĐỔI SỐ
 </h2>
 
