@@ -151,4 +151,4 @@ Nếu bạn cần hỗ trợ cài đặt, tùy chỉnh giao diện hoặc nâng 
 
 - Tác giả: Nhóm 7 
 
-- Email: khaihoang051103@gmail.com
+- Email: ngochoa061204@gmail.com
